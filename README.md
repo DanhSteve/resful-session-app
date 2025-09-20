@@ -1,4 +1,4 @@
-# resful-session-app
+# restful-session-app
 
 ## Description
 A RESTful application for managing user login sessions, built with Node.js, Express, MongoDB, and session middleware.
